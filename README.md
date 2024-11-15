@@ -9,4 +9,8 @@ Clique [aqui](AnaliseVendas.ipynb) para acessar.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" width="50px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50px" />
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50px"/>
+
+          
